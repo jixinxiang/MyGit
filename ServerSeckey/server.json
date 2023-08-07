@@ -1,0 +1,9 @@
+{
+    "serverID":"BJ--001",
+    "dbUser":"root",
+    "dbPasswd":"123456",
+    "dbSID":"192.168.135.129",
+    "port":8989,
+    "maxNode":10,
+    "shmkey":"/home/bin"
+}
